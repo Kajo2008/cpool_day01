@@ -1,0 +1,12 @@
+# Workspace artefacts (not part of the CPool deliverable)
+.env
+scripts/
+skills/
+download/
+upload/
+worklog.md
+
+# OS / editor noise
+*~
+#*#
+.DS_Store
